@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36102'
     url: http://www.gutenberg.org/2009/agents/36102
 description: 'Sequel: Zero the Slaver, #32909.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32912#Into-the-Unknown--A-Romance-of-South-Africa
 gutenberg_issued: '2010-06-20'
 gutenberg_type: Text
 identifiers:
